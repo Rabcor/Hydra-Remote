@@ -1,6 +1,8 @@
 # Hydra-Remote
 HYDRA Remote Desktop/Desktop Sharing
 
+Version: **Proof of Concept**
+
 A remote desktop and desktop sharing utility being developed as the first application to use HUT (HYDRA UI Toolkit). This uitility is meant to be able to compete with Valve's In-Home Streaming in terms of quality and performance, and work between Windows and Linux, Linux and Linux, Windows and Windows and possibly Linux and Browser, and Windows and Browser (may have a browser based client in the future since HUT will support WebGL)
 
 This utility is most likely going to be heavily based on FFMPEG and loosely based on Synergy and Mumble initially.

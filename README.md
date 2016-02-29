@@ -1,5 +1,5 @@
 # Hydra-Remote
-HYDRA Remote Desktop/Desktop Sharing
+Hydra Remote Desktop/Desktop Sharing
 
 Version: **Proof of Concept**
 

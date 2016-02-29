@@ -13,9 +13,9 @@ I may also possibly develop file-sharing capabilities to be able to avoid SAMBA 
 
 This application will support Wayland, and most likely also X11, and will be developed with C and
 
-To Do:
 
-Markup : 
+**To Do:**
+
 * Create the Hydra Remote base application working through CLI
   * Implement Keyboard and Mouse Sharing (Linux to Windows)
   * Implement Sound Sharing (Windows to Linux)
